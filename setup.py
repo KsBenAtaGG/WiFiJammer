@@ -4,10 +4,10 @@ from setuptools import setup
 setup(
     name = "wifijammer",
     version = "0.1",
-    author = "Dan McInerney",
+    author = "Atakan Doğan Özban",
     description = "Continuously jam all wifi clients and access points within range.",
     keywords = "WiFi 802.11 jammer deauth",
-    url = "https://github.com/DanMcInerney/wifijammer",
+    url = "https://github.com/KsBenAtaGG/WifiJammer",
     scripts=['wifijammer'],
     # py_modules=['wifijammer'],
     install_requires=['scapy'],
